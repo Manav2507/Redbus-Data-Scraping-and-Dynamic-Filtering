@@ -14,3 +14,6 @@ Web Scraping: Selenium
 Data Management: SQL
 Frontend: Streamlit
 Programming Language: Python - Numpy, Pandas
+
+https://ibb.co/D7RjnkP
+https://ibb.co/k5G7pvC
