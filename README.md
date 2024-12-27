@@ -3,7 +3,7 @@ The Redbus Data Scraping and Filtering Application, your one-stop solution for a
 
 # Features
 
-Real-time Data Scraping: Automated extraction of bus schedules and seat availability.
+Real-time Data Scraping: Automated extraction of bus schedules and seat availability.\n
 Dynamic Filtering: Refine results by route, type, price, and more.
 User-friendly Interface: Simplified travel insights through an interactive app.
 # Business Use Cases
