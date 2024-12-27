@@ -15,5 +15,7 @@ Data Management: SQL
 Frontend: Streamlit
 Programming Language: Python - Numpy, Pandas
 
+Made by : Manav Patel
+
 https://ibb.co/D7RjnkP
 https://ibb.co/k5G7pvC
