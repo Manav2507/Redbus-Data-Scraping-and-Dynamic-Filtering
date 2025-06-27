@@ -28,6 +28,6 @@ This project is designed to automate the extraction of bus schedules, prices, an
 
 ## 📸 Demo Screenshots
 
-![Preview]("[C:\Users\MANAV\Downloads\1.png](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/2.png)")
-![Preview]("[C:\Users\MANAV\Downloads\2.png](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/2.png)")
+![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/1.png)
+![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/2.png)
 
