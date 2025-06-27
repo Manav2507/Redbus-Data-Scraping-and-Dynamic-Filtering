@@ -1,21 +1,31 @@
-# Redbus-Data-Scraping-and-Dynamic-Filtering
-The Redbus Data Scraping and Filtering Application, your one-stop solution for analyzing and visualizing bus travel data. Explore real-time bus schedules, prices, and availability with ease.
+# 🚌 Redbus Data Scraping and Dynamic Filtering
 
-# Features
+An intelligent and interactive application that scrapes real-time bus travel data from Redbus and provides powerful filtering options for travelers, analysts, and businesses.
 
-Real-time Data Scraping: Automated extraction of bus schedules and seat availability.
-Dynamic Filtering: Refine results by route, type, price, and more.
-User-friendly Interface: Simplified travel insights through an interactive app.
-# Business Use Cases
-Travel Aggregators, Market Analysis, Customer Service, Competitor Analysis
+## 🚀 Project Overview
 
-# Technology Stack
-Web Scraping: Selenium
-Data Management: SQL
-Frontend: Streamlit
-Programming Language: Python - Numpy, Pandas
+This project is designed to automate the extraction of bus schedules, prices, and seat availability from Redbus using Selenium, and visualize them in a clean, user-friendly interface with Streamlit. It's ideal for travel analysis, customer behavior studies, and competitive market insights.
 
-Made by : Manav Patel
+## 🎯 Key Features
 
-https://ibb.co/D7RjnkP
-https://ibb.co/k5G7pvC
+- 🔄 **Real-time Data Scraping**: Live extraction of travel schedules and availability.
+- 🧠 **Dynamic Filtering**: Filter by route, bus type, price, departure time, etc.
+- 📊 **Interactive Dashboard**: Built with Streamlit for instant exploration.
+- 🏷️ **Use Cases**:
+  - Travel Aggregator Tools
+  - Competitive Pricing & Seat Analysis
+  - Customer Preference Tracking
+  - Market Research
+
+## 🛠️ Tech Stack
+
+| Layer           | Technologies                  |
+|----------------|-------------------------------|
+| Web Scraping   | Selenium                      |
+| Data Handling  | Pandas, NumPy, SQL             |
+| Interface      | Streamlit                      |
+| Language       | Python                         |
+
+## 📸 Demo Screenshots
+
+
