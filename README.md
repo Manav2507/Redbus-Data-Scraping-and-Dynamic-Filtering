@@ -2,6 +2,11 @@
 
 An intelligent and interactive application that scrapes real-time bus travel data from Redbus and provides powerful filtering options for travelers, analysts, and businesses.
 
+## 📸 Demo Screenshots
+
+![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/1.png)
+![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/2.png)
+
 ## 🚀 Project Overview
 
 This project is designed to automate the extraction of bus schedules, prices, and seat availability from Redbus using Selenium, and visualize them in a clean, user-friendly interface with Streamlit. It's ideal for travel analysis, customer behavior studies, and competitive market insights.
@@ -26,8 +31,5 @@ This project is designed to automate the extraction of bus schedules, prices, an
 | Interface      | Streamlit                      |
 | Language       | Python                         |
 
-## 📸 Demo Screenshots
 
-![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/1.png)
-![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/2.png)
 
