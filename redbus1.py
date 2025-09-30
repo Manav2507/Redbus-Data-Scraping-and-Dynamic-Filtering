@@ -10,7 +10,7 @@ import time
 #ASRTC
 
 list_ASRTC = []
-df_ASRTC = pd.read_csv("ASRTC_bus_details.csv") 
+df_ASRTC = pd.read_csv("./CSV files/ASRTC_bus_details.csv") 
 for i, r in df_ASRTC.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_ASRTC:  # Ensure only unique values are added
@@ -19,7 +19,7 @@ for i, r in df_ASRTC.iterrows():
 # JKRTC
 
 list_JKRTC = []
-df_JKRTC = pd.read_csv("JKRTC_bus_details.csv")
+df_JKRTC = pd.read_csv("./CSV files/JKRTC_bus_details.csv")
 for i, r in df_JKRTC.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_JKRTC:  # Ensure only unique values are added
@@ -28,7 +28,7 @@ for i, r in df_JKRTC.iterrows():
 #GSRTC
 
 list_GSRTC = []
-df_GSRTC = pd.read_csv("GSRTC_bus_details.csv")
+df_GSRTC = pd.read_csv("./CSV files/GSRTC_bus_details.csv")
 for i, r in df_GSRTC.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_GSRTC:  # Ensure only unique values are added
@@ -37,7 +37,7 @@ for i, r in df_GSRTC.iterrows():
 #KTCL
 
 list_KTCL = []
-df_KTCL = pd.read_csv("KTCL_bus_details.csv")
+df_KTCL = pd.read_csv("./CSV files/KTCL_bus_details.csv")
 for i, r in df_KTCL.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_KTCL:  # Ensure only unique values are added
@@ -46,7 +46,7 @@ for i, r in df_KTCL.iterrows():
 #NBSTC
 
 list_NBSTC = []
-df_NBSTC = pd.read_csv("NBSTC_bus_details.csv")
+df_NBSTC = pd.read_csv("./CSV files/NBSTC_bus_details.csv")
 for i, r in df_NBSTC.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_NBSTC:  # Ensure only unique values are added
@@ -55,7 +55,7 @@ for i, r in df_NBSTC.iterrows():
 #PEPSU
 
 list_PEPSU = []
-df_PEPSU = pd.read_csv("PEPSU_bus_details.csv")
+df_PEPSU = pd.read_csv("./CSV files/PEPSU_bus_details.csv")
 for i, r in df_PEPSU.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_PEPSU:  # Ensure only unique values are added
@@ -64,7 +64,7 @@ for i, r in df_PEPSU.iterrows():
 #RSRTC
 
 list_RSRTC = []
-df_RSRTC = pd.read_csv("RSRTC_bus_details.csv")
+df_RSRTC = pd.read_csv("./CSV files/RSRTC_bus_details.csv")
 for i, r in df_RSRTC.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_RSRTC:  # Ensure only unique values are added
@@ -73,7 +73,7 @@ for i, r in df_RSRTC.iterrows():
 #SNT
 
 list_SNT = []
-df_SNT = pd.read_csv("SNT_bus_details.csv")
+df_SNT = pd.read_csv("./CSV files/SNT_bus_details.csv")
 for i, r in df_SNT.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_SNT:  # Ensure only unique values are added
@@ -82,7 +82,7 @@ for i, r in df_SNT.iterrows():
 # WBSTC
 
 list_WBSTC = []
-df_WBSTC = pd.read_csv("WBSTC_bus_details.csv")
+df_WBSTC = pd.read_csv("./CSV files/WBSTC_bus_details.csv")
 for i, r in df_WBSTC.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_WBSTC:  # Ensure only unique values are added
@@ -91,7 +91,7 @@ for i, r in df_WBSTC.iterrows():
 # WBTC
 
 list_WBTC = []
-df_WBTC = pd.read_csv("WBTC_bus_details.csv")
+df_WBTC = pd.read_csv("./CSV files/WBTC_bus_details.csv")
 for i, r in df_WBTC.iterrows():
     route_name = r["Route_Name"]
     if route_name not in list_WBTC:  # Ensure only unique values are added
@@ -1234,3 +1234,4 @@ with col2:
                     "Duration", "Reaching_Time", "Star_Rating", "Price", "Seat_Availability"
                 ])
                 slt.write(df)
+
