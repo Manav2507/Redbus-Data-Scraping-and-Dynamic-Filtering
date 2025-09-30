@@ -1,0 +1,34 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Gangtok to Siliguri,https://www.redbus.in/bus-tickets/gangtok-to-siliguri,Sikkim Nationalised Transport (SNT) - 170860,Non AC Seater (2+3),12:15,05h 00m,17:15,3.2,INR 275,16 Seats available
+Gangtok to Siliguri,https://www.redbus.in/bus-tickets/gangtok-to-siliguri,Sikkim Nationalised Transport (SNT) - 171248,A/C Seater (2+1),12:45,05h 00m,17:45,4.1,INR 500,3 Seats available
+Gangtok to Siliguri,https://www.redbus.in/bus-tickets/gangtok-to-siliguri,Sikkim Nationalised Transport (SNT) - 170861,Non AC Seater (2+3),13:30,05h 00m,18:30,3.7,INR 275,19 Seats available
+Gangtok to Siliguri,https://www.redbus.in/bus-tickets/gangtok-to-siliguri,APSARA BUS SERVICE,Non AC Seater (2+2),14:00,04h 35m,18:35,3.8,INR 240,28 Seats available
+Gangtok to Siliguri,https://www.redbus.in/bus-tickets/gangtok-to-siliguri,APSARA BUS SERVICE,Non AC Seater (2+2),12:30,04h 30m,17:00,1.2,INR 240,28 Seats available
+Gangtok to Siliguri,https://www.redbus.in/bus-tickets/gangtok-to-siliguri,APSARA BUS SERVICE,Non AC Seater (2+2),15:30,04h 05m,19:35,2.2,INR 240,28 Seats available
+Gangtok to Siliguri,https://www.redbus.in/bus-tickets/gangtok-to-siliguri,APSARA BUS SERVICE,Non AC Seater (2+2),16:15,04h 05m,20:20,2.3,INR 240,27 Seats available
+Siliguri to Gangtok,https://www.redbus.in/bus-tickets/siliguri-to-gangtok,Sikkim Nationalised Transport (SNT) - 170869,NON A/C Seater (2+2),12:30,05h 00m,17:30,3.8,INR 275,5 Seats available
+Siliguri to Gangtok,https://www.redbus.in/bus-tickets/siliguri-to-gangtok,Sikkim Nationalised Transport (SNT) - 171241,A/C Seater (2+1),13:30,05h 00m,18:30,4.1,INR 500,4 Seats available
+Siliguri to Gangtok,https://www.redbus.in/bus-tickets/siliguri-to-gangtok,APSARA BUS SERVICE,Non AC Seater (2+2),16:15,04h 05m,20:20,3.0,INR 240,31 Seats available
+Siliguri to Gangtok,https://www.redbus.in/bus-tickets/siliguri-to-gangtok,APSARA BUS SERVICE,Non AC Seater (2+2),14:10,04h 05m,18:15,2.3,INR 240,23 Seats available
+Siliguri to Rangpo,https://www.redbus.in/bus-tickets/siliguri-to-rangpo,Sikkim Nationalised Transport (SNT) - 170869,NON A/C Seater (2+2),12:30,04h 15m,16:45,4.1,INR 180,5 Seats available
+Siliguri to Rangpo,https://www.redbus.in/bus-tickets/siliguri-to-rangpo,Sikkim Nationalised Transport (SNT) - 171241,A/C Seater (2+1),13:30,04h 15m,17:45,3.6,INR 325,4 Seats available
+Rangpo to Siliguri,https://www.redbus.in/bus-tickets/rangpo-to-siliguri,Sikkim Nationalised Transport (SNT) - 174026,A/C Seater Classic (2+2),11:55,03h 45m,15:40,4.4,INR 500,10 Seats available
+Rangpo to Siliguri,https://www.redbus.in/bus-tickets/rangpo-to-siliguri,Sikkim Nationalised Transport (SNT) - 171007,NON A/C Seater (2+2),12:15,03h 45m,16:00,4.6,INR 180,27 Seats available
+Rangpo to Siliguri,https://www.redbus.in/bus-tickets/rangpo-to-siliguri,Sikkim Nationalised Transport (SNT) - 173582,NON A/C Seater (2+2),13:20,03h 10m,16:30,3.6,INR 180,17 Seats available
+Rangpo to Siliguri,https://www.redbus.in/bus-tickets/rangpo-to-siliguri,Sikkim Nationalised Transport (SNT) - 173583,NON A/C Seater (2+2),13:40,03h 20m,17:00,3.6,INR 180,21 Seats available
+Rangpo to Siliguri,https://www.redbus.in/bus-tickets/rangpo-to-siliguri,Sikkim Nationalised Transport (SNT) - 170860,Non AC Seater (2+3),13:45,03h 30m,17:15,3.7,INR 180,22 Seats available
+Rangpo to Siliguri,https://www.redbus.in/bus-tickets/rangpo-to-siliguri,Sikkim Nationalised Transport (SNT) - 171248,A/C Seater (2+1),14:15,03h 30m,17:45,2.6,INR 500,9 Seats available
+Rangpo to Siliguri,https://www.redbus.in/bus-tickets/rangpo-to-siliguri,Sikkim Nationalised Transport (SNT) - 170861,Non AC Seater (2+3),15:00,03h 30m,18:30,4.2,INR 180,19 Seats available
+Siliguri to Singtham (Sikkim),https://www.redbus.in/bus-tickets/siliguri-to-singtham-sikkim,Sikkim Nationalised Transport (SNT) - 170869,NON A/C Seater (2+2),12:30,04h 25m,16:55,3.5,INR 205,5 Seats available
+Siliguri to Singtham (Sikkim),https://www.redbus.in/bus-tickets/siliguri-to-singtham-sikkim,Sikkim Nationalised Transport (SNT) - 171241,A/C Seater (2+1),13:30,04h 25m,17:55,3.7,INR 370,5 Seats available
+Singtham (Sikkim) to Siliguri,https://www.redbus.in/bus-tickets/singtham-sikkim-to-siliguri,Sikkim Nationalised Transport (SNT) - 174026,A/C Seater Classic (2+2),11:45,03h 55m,15:40,3.8,INR 500,10 Seats available
+Singtham (Sikkim) to Siliguri,https://www.redbus.in/bus-tickets/singtham-sikkim-to-siliguri,Sikkim Nationalised Transport (SNT) - 171007,NON A/C Seater (2+2),12:05,03h 55m,16:00,3.8,INR 205,27 Seats available
+Singtham (Sikkim) to Siliguri,https://www.redbus.in/bus-tickets/singtham-sikkim-to-siliguri,Sikkim Nationalised Transport (SNT) - 173582,NON A/C Seater (2+2),13:00,03h 30m,16:30,3.8,INR 205,17 Seats available
+Singtham (Sikkim) to Siliguri,https://www.redbus.in/bus-tickets/singtham-sikkim-to-siliguri,Sikkim Nationalised Transport (SNT) - 170860,Non AC Seater (2+3),13:15,04h 00m,17:15,2.9,INR 205,22 Seats available
+Singtham (Sikkim) to Siliguri,https://www.redbus.in/bus-tickets/singtham-sikkim-to-siliguri,Sikkim Nationalised Transport (SNT) - 173583,NON A/C Seater (2+2),13:30,03h 30m,17:00,3.8,INR 205,21 Seats available
+Singtham (Sikkim) to Siliguri,https://www.redbus.in/bus-tickets/singtham-sikkim-to-siliguri,Sikkim Nationalised Transport (SNT) - 171248,A/C Seater (2+1),13:45,04h 00m,17:45,2.6,INR 500,10 Seats available
+Singtham (Sikkim) to Siliguri,https://www.redbus.in/bus-tickets/singtham-sikkim-to-siliguri,Sikkim Nationalised Transport (SNT) - 170861,Non AC Seater (2+3),14:30,04h 00m,18:30,3.8,INR 305,25 Seats available
+Siliguri to Namchi (Sikkim),https://www.redbus.in/bus-tickets/siliguri-to-namchi-sikkim,Sikkim Nationalised Transport (SNT) - 170761,NON A/C Seater (2+2),13:00,05h 00m,18:00,3.4,INR 220,8 Seats available
+Siliguri to Ravangla (Sikkim),https://www.redbus.in/bus-tickets/siliguri-to-ravangla-sikkim,Sikkim Nationalised Transport (SNT) - 170761,NON A/C Seater (2+2),13:00,06h 00m,19:00,3.3,INR 280,20 Seats available
+Siliguri to Melli (Sikkim),https://www.redbus.in/bus-tickets/siliguri-to-melli-sikkim,Sikkim Nationalised Transport (SNT) - 170761,NON A/C Seater (2+2),13:00,03h 30m,16:30,3.8,INR 140,26 Seats available
+Siliguri to Melli (Sikkim),https://www.redbus.in/bus-tickets/siliguri-to-melli-sikkim,Sikkim Nationalised Transport (SNT) - 175279,Non AC Seater (2+2),14:15,02h 45m,17:00,3.8,INR 135,26 Seats available
