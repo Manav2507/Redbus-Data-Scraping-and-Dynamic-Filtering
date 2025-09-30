@@ -4,8 +4,8 @@ An intelligent and interactive application that scrapes real-time bus travel dat
 
 ## 📸 Demo Screenshots
 
-![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/1.png)
-![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/2.png)
+![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/img/1.png)
+![Preview](https://github.com/Manav2507/Redbus-Data-Scraping-and-Dynamic-Filtering/blob/main/img/2.png)
 
 ## 🚀 Project Overview
 
